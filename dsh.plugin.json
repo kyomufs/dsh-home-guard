@@ -1,0 +1,18 @@
+{
+  "name": "dsh-home-guard",
+  "version": "0.1.0",
+  "description": "DSH home structure control: provenance map, session viewer with archive/delete, scheduled cleanup rules, and archived-session purge.",
+  "entry": {
+    "name": "dsh-home-guard",
+    "inject": []
+  },
+  "client": {
+    "platform": "web"
+  },
+  "license": "MIT",
+  "author": "kyomufs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kyomufs/dsh-home-guard"
+  }
+}
